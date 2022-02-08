@@ -1,0 +1,9 @@
+#CONVERSION OF KILOMETER INTO CENTIMETER
+KM=float(input('enter Kilometer value:'))
+centimeter=100000*KM
+print('centimeter of given kilometer is:',centimeter)
+OUTPUT:
+enter Kilometer value:0.4
+centimeter of given kilometer is:40000.0
+
+
